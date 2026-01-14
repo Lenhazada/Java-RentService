@@ -1,7 +1,10 @@
+# Português
+
 
 # Serviço de Aluguel
 
 Uma locadora de carros brasileira cobra uma certo valor por hora para locações até 12 horas. Se a duração da locação ultrapassar 12 horas, a locação sera cobrada com base em um valor diário. Além do valor da locação, é acrescido nopreço o valor do imposto conforme regras do país que, no caso do Brasil, é 20%para valores até 100.00, ou 15% para valores acima de 100.00. 
+
 
 ## Exemplo
 
@@ -31,12 +34,16 @@ Imposto = 50 * 20% = 50 * 0.2 = 10
 **Professor:** Nélio alves
 **Back-end:** java
 
+
+
 # English Version
+
 
 
 # Rent Service
 
 A Brazilian car rental company charges a certain amount per hour for rentals of up to 12 hours. If the rental duration exceeds 12 hours, the rental is charged based on a daily rate. In addition to the rental value, a tax is added to the price according to the country’s rules, which in the case of Brazil is 20% for amounts up to 100.00, or 15% for amounts above 100.00.
+
 
 ## Example
 
